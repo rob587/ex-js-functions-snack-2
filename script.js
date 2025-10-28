@@ -21,3 +21,11 @@
 // };
 
 // console.log(somma(5, 3));
+
+// SNACK 2
+
+// const quadrato = (n) => {
+//   return n * n;
+// };
+
+// console.log(quadrato(2));
