@@ -63,3 +63,20 @@
 // }
 
 // stampaOgniSecondo("ciao");
+
+// SNACK 6
+
+// let contatore = 0;
+
+// function creaContatoreAutomatico(time) {
+//   return () => {
+//     setInterval(() => {
+//       contatore++;
+//       console.log(contatore);
+//     }, time);
+//   };
+// }
+
+// const timer = creaContatoreAutomatico(3000);
+
+// timer();
