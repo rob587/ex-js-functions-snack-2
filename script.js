@@ -51,3 +51,15 @@
 
 // const timer = creaTimer(2000);
 // timer();
+
+// SNACK 5
+
+// function stampaOgniSecondo(messaggio) {
+//   {
+//     setInterval(() => {
+//       console.log(messaggio);
+//     }, 3000);
+//   }
+// }
+
+// stampaOgniSecondo("ciao");
