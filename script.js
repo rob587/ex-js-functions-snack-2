@@ -80,3 +80,18 @@
 // const timer = creaContatoreAutomatico(3000);
 
 // timer();
+
+// SNACK 7
+
+// function eseguiEferma(messaggio, start, end) {
+//   const intervallo = setInterval(() => {
+//     console.log(messaggio);
+//   }, start);
+
+//   setTimeout(() => {
+//     clearInterval(intervallo);
+//     console.log("Timer Fermato");
+//   }, end);
+// }
+
+// eseguiEferma("Ciao", 1000, 3000);
