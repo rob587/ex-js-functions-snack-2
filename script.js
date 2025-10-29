@@ -95,3 +95,19 @@
 // }
 
 // eseguiEferma("Ciao", 1000, 3000);
+
+// snack 8
+
+// function contoAllaRovescia(n) {
+//   let counter = n;
+//   const intervallo = setInterval(() => {
+//     console.log(counter);
+//     counter--;
+//     if (counter < 0) {
+//       clearInterval(intervallo);
+//       console.log("STOP");
+//     }
+//   }, 2000);
+// }
+
+// contoAllaRovescia(5);
